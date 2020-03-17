@@ -17,4 +17,4 @@ Assuming that 7% of COVID-19 infections result in death on average in Italy we e
 
 # Results
 
-[Results for 2020-03-17](2020-03-17.png)
+[Results for 2020-03-17](2020-03-17.jpeg)
